@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [你的名字]  
+# 👋 Hi, I'm Long Weihan  
 
 🎓 I'm a graduate student specializing in **optical waveguides** and **photonic integrated circuits (PICs)**.  
 🔬 My research focuses on the design, simulation, and fabrication of **integrated photonic devices**, with applications in optical communication, sensing, and quantum photonics.  

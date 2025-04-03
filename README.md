@@ -29,10 +29,10 @@
 
 ## 📌 Selected Projects
 
-🔹 [SOI-based Polarization Rotator](https://github.com/yourusername/polarization-rotator)  
+🔹 [SOI-based Polarization Rotator]  
 _Compact polarization rotator for TE-TM conversion using mode hybridization and adiabatic tapering._  
 
-🔹 [High-efficiency Grating Coupler](https://github.com/yourusername/grating-coupler)  
+🔹 [High-efficiency Grating Coupler]  
 _Design and optimization of broadband silicon grating couplers for fiber-chip coupling._
 
 ---

@@ -3,7 +3,7 @@
 🎓 I'm a graduate student specializing in **optical waveguides** and **photonic integrated circuits (PICs)**.  
 🔬 My research focuses on the design, simulation, and fabrication of **integrated photonic devices**, with applications in optical communication, sensing, and quantum photonics.  
 📍 Currently based at University of Electronic Science and Technology of China  
-📫 Contact: longwh2003@gmail.com | https://github.com/LongWeihan
+📫 Contact: weihanlong@std.uestc.edu.cn | https://github.com/LongWeihan
 
 ---
 
